@@ -34,3 +34,18 @@ Hint system
 Attempt counter
 How to run:
 python number_guess.py
+
+PROJECT 3: TO DO LIST (FILE BASED)
+Title: File-Based To-Do List App
+Description: Manage tasks using a simple Python menu system. Tasks are stored in a file, so they remain saved after closing the program.
+Features:
+
+Add tasks
+
+View tasks
+
+Delete tasks
+
+File-based storage
+How to run:
+python todo.py
